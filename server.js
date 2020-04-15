@@ -1,5 +1,5 @@
 var express = require('express');
-const {port}=require('./config/config')||2600;
+const {port}=require('./config/config');
 var app = express();
 var router=require("./router")(app);
 app.listen(port,()=>{
