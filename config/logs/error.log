@@ -1,0 +1,7 @@
+2020-04-16 15:24:23 error : Successfully connected to postgre :swt-psql-server.postgres.database.azure.com
+2020-04-16 16:46:54 error : Error in connecting Db
+2020-04-16 19:41:19 error : Error occured in DB Error: read ECONNRESET
+2020-04-16 19:41:19 error : Error occured in DB Error: Connection terminated unexpectedly
+2020-04-16 23:39:17 error : Error in connecting Db
+2020-04-16 23:39:36 error : Error in connecting Db
+2020-04-17 00:29:54 error : Error in connecting Db :Error: read ECONNRESET
