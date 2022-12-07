@@ -10,10 +10,10 @@
   "author": "shrinivasan",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "celebrate": "^12.1.0",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "path": "^0.12.7",
     "pg": "^8.0.2",
     "winston": "^3.2.1"
